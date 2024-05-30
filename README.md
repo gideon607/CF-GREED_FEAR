@@ -1,5 +1,4 @@
-```markdown
-# Fear and Greed Index Application
+# CF-GREED_FEAR Index Application
 
 ## Project Overview
 
