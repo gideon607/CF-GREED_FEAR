@@ -1,4 +1,3 @@
-
 ```markdown
 # Fear and Greed Index Application
 
@@ -12,7 +11,7 @@ The CF-Greed_Fear Index Application is designed to help investors make informed 
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Team Members](#team-members)
+- [Team Member](#team-member)
 - [Architecture](#architecture)
 - [Technologies Used](#technologies-used)
 - [Setup and Installation](#setup-and-installation)
