@@ -135,4 +135,4 @@ Fetches the Fear and Greed Index based on Google Trends data.
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
 
-This `README.md` provides a comprehensive overview of your project, making it easy for contributors to add their insight.
+This `README.md` provides a comprehensive overview of the CF-GREED_FEAR project, making it easy for contributors to add their insight.
