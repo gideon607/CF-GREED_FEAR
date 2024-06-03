@@ -23,7 +23,7 @@ The CF-Greed_Fear Index Application is designed to help investors make informed 
 
 ## Architecture
 
-![Architecture Diagram](path/to/architecture-diagram.png)
+![Architecture Diagram](CF-GREED_FEAR.png)
 
 The application consists of the following components:
 - **Backend**: A Node.js server with Express.js that fetches and processes data from the Google Trends API.
