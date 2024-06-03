@@ -121,7 +121,7 @@ Fetches the Fear and Greed Index based on Google Trends data.
 ## Lessons Learned
 
 - The importance of reliable third-party services.
-- Effective teamwork and communication.
+- Effective collaboration and communication.
 - Handling and processing large datasets.
 
 ## Next Steps
